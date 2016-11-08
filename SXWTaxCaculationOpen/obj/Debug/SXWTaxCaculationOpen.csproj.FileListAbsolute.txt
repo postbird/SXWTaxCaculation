@@ -1,0 +1,9 @@
+I:\vsprojects\SXWTaxCaculationOpen\SXWTaxCaculationOpen\bin\Debug\SXWTaxCaculationOpen.exe.config
+I:\vsprojects\SXWTaxCaculationOpen\SXWTaxCaculationOpen\bin\Debug\SXWTaxCaculationOpen.exe
+I:\vsprojects\SXWTaxCaculationOpen\SXWTaxCaculationOpen\bin\Debug\SXWTaxCaculationOpen.pdb
+I:\vsprojects\SXWTaxCaculationOpen\SXWTaxCaculationOpen\obj\Debug\SXWTaxCaculationOpen.csprojResolveAssemblyReference.cache
+I:\vsprojects\SXWTaxCaculationOpen\SXWTaxCaculationOpen\obj\Debug\SXWTaxCaculationOpen.Form1.resources
+I:\vsprojects\SXWTaxCaculationOpen\SXWTaxCaculationOpen\obj\Debug\SXWTaxCaculationOpen.Properties.Resources.resources
+I:\vsprojects\SXWTaxCaculationOpen\SXWTaxCaculationOpen\obj\Debug\SXWTaxCaculationOpen.csproj.GenerateResource.Cache
+I:\vsprojects\SXWTaxCaculationOpen\SXWTaxCaculationOpen\obj\Debug\SXWTaxCaculationOpen.exe
+I:\vsprojects\SXWTaxCaculationOpen\SXWTaxCaculationOpen\obj\Debug\SXWTaxCaculationOpen.pdb
